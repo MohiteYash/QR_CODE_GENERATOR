@@ -1,4 +1,4 @@
-# fuzzy-winner
+# QR CODE GENERATOR USING PYTHON 
 INPUT
 ![qr2](https://user-images.githubusercontent.com/110478082/186924025-db3019cb-524a-4030-b14c-e75562330895.JPG)
 
